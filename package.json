@@ -1,5 +1,5 @@
 {
-  "name": "angular-whimsical-ripple",
+  "name": "@iw/angular-whimsical-ripple",
   "version": "1.0.0",
   "description": "**angular-whimsical-ripple** is a Angular directive to create a ripple effect.",
   "main": "whimsicalRipple.js",
